@@ -1,0 +1,12 @@
+requests
+pandas
+pdfplumber
+numpy
+beautifulsoup4
+pymorphy3
+nltk
+matplotlib
+wordcloud
+gensim
+pyLDAvis
+tqdm
